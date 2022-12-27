@@ -1,0 +1,26 @@
+{
+    "id": "49556E07",
+    "path": "C:/Users/91766/Desktop/Projects/Transportation/Trip Distribution/myapp/server.R",
+    "project_path": "myapp/server.R",
+    "type": "r_source",
+    "hash": "1723659342",
+    "contents": "",
+    "dirty": false,
+    "created": 1672115698166.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "187,35",
+        "scrollLine": "0"
+    },
+    "folds": "58|37|70|2|\n71|23|87|2|\n88|47|131|2|\n132|25|143|2|\n144|37|155|2|\n229|26|265|2|\n",
+    "lastKnownWriteTime": 1672120597,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1672120597603,
+    "read_only": false,
+    "read_only_alternatives": []
+}
